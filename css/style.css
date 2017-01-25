@@ -1,0 +1,30 @@
+body {
+    font-family: "GillSans, Calibri, Trebuchet, sans-serif";
+    font-size: 24px;
+}
+
+h1 {
+    text-decoration: underline;
+    font-size: 1.2em;
+    line-height: 1.1em;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: #8f2c28;
+    text-transform: uppercase;
+}
+
+.cover-image {
+    height: 300px;
+}
+
+.row {
+    margin-bottom: 5px;
+}
+
+.text {
+    height: 50px;
+}
+
+img {
+    width:100%;
+}
